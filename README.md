@@ -22,6 +22,7 @@
   - [Chicago](#chicago)
   - [Dallas](#dallas)
   - [Denver](#denver)
+  - [Las Vegas](#las-vegas)
   - [New York](#new-york)
   - [Portland, OR](#portland-or)
   - [San Francisco](#san-francisco)
@@ -137,52 +138,6 @@
 
 ## United States
 
-### San Francisco
-
-- [Angelpad](https://angelpad.org/)
-- [Code for America Accelerator](https://www.codeforamerica.org/) - 155 9th Street, San Francisco, CA, 94103.
-- [Dog Patch Labs](http://dogpatchlabs.com/)
-- [FFL Startup Accelerator](http://www.joinffl.com/)
-- [Greenstart](http://www.greenstart.com/) - 22 Battery Street, San Francisco, CA 94111
-- [Hub Ventures](http://www.hubventures.org/) - San Francisco Chronicle, 901 Mission St #105, San Francisco, CA 94103
-- [Illumina Accelerator Program](http://www.illumina.com/science/accelerator.html)
-- [Impact Hub SF](http://sanfrancisco.impacthub.net/) - San Francisco Chronicle, 901 Mission St #105, San Francisco, CA 94103
-- [Lightspeed Summer Fellowship](http://lsvp.com/summer-fellowships/) - 2200 Sand Hill Road, Menlo Park, CA 94025
-- [Matter](http://matter.vc/) - 421 Bryant Street, San Francisco, CA 94107
-- [New Me Accelerator](http://www.newme.in/) - 1001 Bayhill Drive, San Bruno, CA 94006
-- [Orange Fab US](https://orangefab.com/) - 60 Spear St, San Francisco, CA 94105
-- [Plug and Play Tech Center](http://plugandplaytechcenter.com/) - 440 N Wolfe Rd, Sunnyvale, CA 94085
-- [Renaissance Entrepreneurship Centers](http://www.rencenter.org/) - 1325 B Evans Avenue, San Francisco, CA 94124
-- [Rock Health](https://rockhealth.com/) - 455 Mission Bay Boulevard South #124, San Francisco, CA 94158
-- [RocketSpace](http://www.rocketspace.com/) - 180 Sansome St, San Francisco, CA 94104
-- [Runway](http://www.runway.is/) - 1355 Market St #488, San Francisco, CA 94103
-- [Summer Highland](http://www.hcp.com/) - 537 Hamilton Avenue, Palo Alto, CA 94306
-- [The Founder Institute](http://fi.co/) - 3337 El Camino Real, Palo Alto, CA 94306
-- [Tummi](http://www.tumml.org/#mission-1) - 645 Harrison Street, Suite 200, San Francisco, CA 94107
-
-### New York
-
-- [Accel Foods](http://www.accelfoods.com/about-us/) - 205 East 42nd Street
-- [ActualMeds](http://www.actualmeds.com)
-- [AllazoHealth](http://allazohealth.com/) - 447 Broadway
-- [Angel Pad](https://angelpad.org/) - 5th Ave, New York, NY 10011
-- [Blueprint Health](http://www.blueprinthealth.org/) - 447 Broadway
-- [Brooklyn Beta Summer Camp](http://brooklynbeta.org/)
-- [CipherHealth](https://cipherhealth.com/) - 555 8th Ave
-- [Covertix](http://www.covertix.com/) - 650 Fifth Avenue, 31st Floor
-- [DreamiT Ventures](http://www.dreamit.com/#meaningful-experience) - 116 W Houston Street
-- [Enterpreneurs Roundtable Accelerator](http://eranyc.com/) - 500 7th Avenue, 17A
-- [Kaplan EdTech Accelerator (Techstars)](http://www.kaplanedtechaccelerator.com.s3-website-us-east-1.amazonaws.com/)
-- [New York Digital Health Accelerator](http://digitalhealthaccelerator.com/)
-- [noom](https://www.noom.com/) - 229 W 28th St
-- [Parable](https://parablehealth.com/)
-- [R/GA Connected Devices Accelerator (Techstars)](http://rgaaccelerator.com/connecteddevices/) - 450 W 33rd Street
-- [Startl](http://startl.org/accelerator/)
-- [Tech Stars](http://www.techstars.com/)
-- [TelaDietician](https://teladietitian.com/) - 1460 Broadway
-- [Wellth](http://www.wellthapp.com/) - 240 Kent Ave
-- [Women Innovate Mobile](http://www.wim.co/)
-
 ### Austin
 
 - [Capital Factory](https://capitalfactory.com/) - 701 Brazos St
@@ -216,14 +171,13 @@
 - [TechStars Chicago](http://www.techstars.com/programs/chicago-program/)
 - [Wistem](https://1871.com/wistem/)
 
-### Las Vegas
+### Dallas
 
-- [Iron Yard](http://ironyardventures.com/current-programs/)
-- [Techco Las Vegas](http://downtown.vegas/tech-coaccelerator-las-vegas/)
-- [The Mill](http://themill.vc/)
-- [University of Las Vegas](http://web.unlv.edu/accelerator/) - 4505 S Maryland Pkwy
-- [VMSA Accelerator](http://www.vmsaccelerators.com/)
-- [VTF Capital](http://vtfcapital.com/) - 317 S 6th Street
+- [Collide Village](http://www.collidevillage.com/) - Treehouse 14681
+- [Dallas Venture Partners](http://dallasventurepartners.com/community) - 2801 Woodside Street
+- [Launch](http://launchdfw.com/startup-resources/accelerators/) - 1910 Pacific Avenue
+- [RevTech](http://www.revtechaccelerator.com/) - 311 N Market St, Suite 200
+- [Tech Wildcatters](http://techwildcatters.com/)
 
 ### Denver
 
@@ -235,6 +189,70 @@
 - [Techstars Denver](http://www.techstars.com/)
 - [Unreasonable Institute](https://unreasonableinstitute.org/)
 - [W3W3 Colorado](http://www.w3w3.com/) - 740 Pearl St # 303
+
+### Las Vegas
+
+- [Iron Yard](http://ironyardventures.com/current-programs/)
+- [Techco Las Vegas](http://downtown.vegas/tech-coaccelerator-las-vegas/)
+- [The Mill](http://themill.vc/)
+- [University of Las Vegas](http://web.unlv.edu/accelerator/) - 4505 S Maryland Pkwy
+- [VMSA Accelerator](http://www.vmsaccelerators.com/)
+- [VTF Capital](http://vtfcapital.com/) - 317 S 6th Street
+
+### New York
+
+- [Accel Foods](http://www.accelfoods.com/about-us/) - 205 East 42nd Street
+- [ActualMeds](http://www.actualmeds.com)
+- [AllazoHealth](http://allazohealth.com/) - 447 Broadway
+- [Angel Pad](https://angelpad.org/) - 5th Ave, New York, NY 10011
+- [Blueprint Health](http://www.blueprinthealth.org/) - 447 Broadway
+- [Brooklyn Beta Summer Camp](http://brooklynbeta.org/)
+- [CipherHealth](https://cipherhealth.com/) - 555 8th Ave
+- [Covertix](http://www.covertix.com/) - 650 Fifth Avenue, 31st Floor
+- [DreamiT Ventures](http://www.dreamit.com/#meaningful-experience) - 116 W Houston Street
+- [Enterpreneurs Roundtable Accelerator](http://eranyc.com/) - 500 7th Avenue, 17A
+- [Kaplan EdTech Accelerator (Techstars)](http://www.kaplanedtechaccelerator.com.s3-website-us-east-1.amazonaws.com/)
+- [New York Digital Health Accelerator](http://digitalhealthaccelerator.com/)
+- [noom](https://www.noom.com/) - 229 W 28th St
+- [Parable](https://parablehealth.com/)
+- [R/GA Connected Devices Accelerator (Techstars)](http://rgaaccelerator.com/connecteddevices/) - 450 W 33rd Street
+- [Startl](http://startl.org/accelerator/)
+- [Tech Stars](http://www.techstars.com/)
+- [TelaDietician](https://teladietitian.com/) - 1460 Broadway
+- [Wellth](http://www.wellthapp.com/) - 240 Kent Ave
+- [Women Innovate Mobile](http://www.wim.co/)
+
+### Portland
+
+- [BESThq](http://besthq.net/) - 12745 SW Beaverdam Road
+- [Forge Portland](http://www.forgeportland.org/forge/index.php) - 1410 SW Morrison Street, Suite 850
+- [Founders Pad](http://founderspad.com/) - 777 SW Mill View Way, Suite 200
+- [Hatch Lab](http://hatchthefuture.org/) - 2402 NE Sandy Blvd
+- [Portland Seed Fund](http://www.portlandseedfund.com/) - 805 SW Broadway, Suite 2440
+- [Regional Accelerator and Innovation Network (RAIN)](http://oregonrain.org/)
+
+### San Francisco
+
+- [Angelpad](https://angelpad.org/)
+- [Code for America Accelerator](https://www.codeforamerica.org/) - 155 9th Street, San Francisco, CA, 94103.
+- [Dog Patch Labs](http://dogpatchlabs.com/)
+- [FFL Startup Accelerator](http://www.joinffl.com/)
+- [Greenstart](http://www.greenstart.com/) - 22 Battery Street, San Francisco, CA 94111
+- [Hub Ventures](http://www.hubventures.org/) - San Francisco Chronicle, 901 Mission St #105, San Francisco, CA 94103
+- [Illumina Accelerator Program](http://www.illumina.com/science/accelerator.html)
+- [Impact Hub SF](http://sanfrancisco.impacthub.net/) - San Francisco Chronicle, 901 Mission St #105, San Francisco, CA 94103
+- [Lightspeed Summer Fellowship](http://lsvp.com/summer-fellowships/) - 2200 Sand Hill Road, Menlo Park, CA 94025
+- [Matter](http://matter.vc/) - 421 Bryant Street, San Francisco, CA 94107
+- [New Me Accelerator](http://www.newme.in/) - 1001 Bayhill Drive, San Bruno, CA 94006
+- [Orange Fab US](https://orangefab.com/) - 60 Spear St, San Francisco, CA 94105
+- [Plug and Play Tech Center](http://plugandplaytechcenter.com/) - 440 N Wolfe Rd, Sunnyvale, CA 94085
+- [Renaissance Entrepreneurship Centers](http://www.rencenter.org/) - 1325 B Evans Avenue, San Francisco, CA 94124
+- [Rock Health](https://rockhealth.com/) - 455 Mission Bay Boulevard South #124, San Francisco, CA 94158
+- [RocketSpace](http://www.rocketspace.com/) - 180 Sansome St, San Francisco, CA 94104
+- [Runway](http://www.runway.is/) - 1355 Market St #488, San Francisco, CA 94103
+- [Summer Highland](http://www.hcp.com/) - 537 Hamilton Avenue, Palo Alto, CA 94306
+- [The Founder Institute](http://fi.co/) - 3337 El Camino Real, Palo Alto, CA 94306
+- [Tummi](http://www.tumml.org/#mission-1) - 645 Harrison Street, Suite 200, San Francisco, CA 94107
 
 ### Seattle
 
@@ -251,23 +269,6 @@
 - [TechBA](http://www.techbaseattle.org/) - 999 Third Ave., Suite 700
 - [Techstars](http://www.techstars.com/programs/seattle-program/)
 - [Village88 Tech Lab](http://techlab.village88.com/) - 1801 130th Ave NE #220
-
-### Portland
-
-- [BESThq](http://besthq.net/) - 12745 SW Beaverdam Road
-- [Forge Portland](http://www.forgeportland.org/forge/index.php) - 1410 SW Morrison Street, Suite 850
-- [Founders Pad](http://founderspad.com/) - 777 SW Mill View Way, Suite 200
-- [Hatch Lab](http://hatchthefuture.org/) - 2402 NE Sandy Blvd
-- [Portland Seed Fund](http://www.portlandseedfund.com/) - 805 SW Broadway, Suite 2440
-- [Regional Accelerator and Innovation Network (RAIN)](http://oregonrain.org/)
-
-### Dallas
-
-- [Collide Village](http://www.collidevillage.com/) - Treehouse 14681
-- [Dallas Venture Partners](http://dallasventurepartners.com/community) - 2801 Woodside Street
-- [Launch](http://launchdfw.com/startup-resources/accelerators/) - 1910 Pacific Avenue
-- [RevTech](http://www.revtechaccelerator.com/) - 311 N Market St, Suite 200
-- [Tech Wildcatters](http://techwildcatters.com/)
 
 
 ## License
