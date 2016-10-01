@@ -24,7 +24,7 @@
   - [Denver](#denver)
   - [Las Vegas](#las-vegas)
   - [New York](#new-york)
-  - [Portland, OR](#portland-or)
+  - [Portland, OR](#portland--or)
   - [San Francisco](#san-francisco)
   - [Seattle](#seattle)
 
