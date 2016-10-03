@@ -112,7 +112,7 @@
 - [EYE Focus](http://www.eyefocus.co/)
 - [Grants4Apps® | Innovative Healthcare Projects](https://www.grants4apps.com/)
 - [Home - hardware.co](http://hardware.co/)
-- [http://europeanpioneers.eu/en/en](http://europeanpioneers.eu/en/en)
+- [EuropeanPioneers](http://europeanpioneers.eu/en/en)
 - [Microsoft Ventures](https://www.microsoftaccelerator.com/locations/berlin)
 - [Rocket Internet](https://www.rocket-internet.com/)
 - [Startup accelerator of the Scout24 portals](https://startupsafaryberlin2016.sched.org/event/6q8h/you-is-now-meet-the-startup-accelerator-of-the-scout24-portals)
