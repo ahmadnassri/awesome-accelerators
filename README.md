@@ -50,6 +50,7 @@
 - [Style Kick](http://www.stylekick.com/) - Toronto, Ontario
 - [The DMZ](https://dmz.ryerson.ca/)
 - [The Next 36](https://www.nextcanada.com/next-36) - 130 Bloor Street West, Suite 702
+- [OneEleven](http://www.oneeleven.com/) 111 Richmond Street West.
 - [Tract 9](https://tract9.com/)
 - [UTest](http://utest.to/) - 100 College Street Unit 252/254
 - [Whirlscape](http://minuum.com/about/) - 71 King St. E, Unit 300
